@@ -1,0 +1,87 @@
+.scene {
+      height: 100vh;
+      overflow: hidden;
+      background-attachment: fixed;
+      background-size: cover;
+      font-family: 'Source Sans Pro', sans-serif;
+      font-weight: 200;
+}
+
+.scene.zero{
+		background-image: url("../resource/background/frontBackground.jpg");
+}
+
+.scene.one{
+	  background-image: url("../resource/background/inside01.jpg");
+}
+.scene.two{
+	  background-image: url("../resource/background/inside02.jpg");
+}
+.scene.three{
+	  background-image: url("../resource/background/inside03.jpg");
+}
+.scene.four{
+	  background-image: url("../resource/background/inside04.jpg");
+}
+
+
+.scene header{
+	  color:white;
+	  max-width: 80%;
+	  position: relative;
+	  left:50%;
+	  top:50%;
+	  transform:translateX(-50%) translateY(-50%);
+	  font-size:2rem;
+	text-align: center;
+}
+
+.scene header h1{
+	border-bottom: solid 10px #046380;
+	font-size: 6rem;
+	text-align: center;
+	color:#efecca;
+}
+
+
+.title{
+	margin-top:15%;
+	color:white;
+	font-size:20px;
+}
+
+.title h1{
+	color:#E6E2AF;
+	text-align: center;
+	border-bottom: solid 10px #046380;
+
+}
+
+
+table{
+	background: rgba(239, 236, 202, 0.7);
+	text-align: center;
+	color: #002F2F;
+}
+table th{
+	text-align: center;
+	background: rgba(230, 236, 175, 0.7);
+}
+
+#one_content{
+	padding:10% 3%;
+	margin-top: 10%;
+}
+
+
+#two_content{
+	margin-top: 5%;
+	background:black;
+	align-items: center;
+}
+#twoImg{
+	max-width: 100%;
+}
+
+#three_content{
+}
