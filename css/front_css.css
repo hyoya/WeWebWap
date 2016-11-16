@@ -1,0 +1,70 @@
+body{
+background: #A7A37E;
+background: url('../resource/background/frontBackground.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+#logo{
+	margin-left: 2%;
+	margin-top: 2%;
+	margin-bottom: 10%;
+}
+
+
+#box{
+	width:90%;
+	margin:auto;
+	align-items:center;
+}
+
+#information{
+	background: rgba(167, 163, 126, 0.4);
+	margin: 1%;
+	border-radius: 10%;
+	border:double 6px #E6E2AF;
+	padding:8% 4%;
+    color: rgba(200,200,42, 0.9);
+    font-size: 19px;
+
+}
+
+#divider{
+margin:1%;
+
+}
+
+#caption{
+margin:1%;
+min-height: 50px;
+text-align:right;
+padding-top:20%;
+}
+
+#caption h1{
+	font-size: 50px;
+	color:white;
+
+	font-style:italic;
+}
+
+#caption h4{
+	font-size:30px;
+	color:gray;
+}
+
+.logLabel{
+	font-weight: normal !important;
+}
+
+#info_box{
+	text-align: right;
+}
+
+#cap_box{
+	position:relative;
+}
+
