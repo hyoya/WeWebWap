@@ -1,0 +1,65 @@
+body {
+    background: url('../../resource/background/frontBackground.jpg') no-repeat center center fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+    filter: alpha(opacity=90);
+}
+
+h2 {
+    display: inline-block;
+}
+
+h4 {
+    text-align: center;
+}
+
+th {
+    text-align: center;
+}
+
+.total {
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 600px;
+}
+
+.panel-heading {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+.theader-title {
+    display: inline-block;
+}
+
+.theader-nav {
+    padding-top: 30px;
+    display: inline-block;
+    text-align: right;
+}
+
+.theader-write-nav {
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.btn-warning {
+    background-color: #FFBBC6 !important;
+    border-color: #d2b8be !important;
+}
+
+.table {
+    margin-right: 10%;
+    margin-left: 10%;
+    width: 80%;
+    min-width: 80%;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.btn-toolbar {
+    text-align: center;
+    margin-bottom: 20px;
+}
