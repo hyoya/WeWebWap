@@ -2,6 +2,10 @@
 	font-family: 'NanumGothic';
 	src : url(../../NanumFont_TTF_ALL/NanumGothic.ttf) format('truetype');
 }
+@media (max-width: 1150px)
+{#sidebar{display: none;}
+ #main{float: center;}
+}
 html, body{
 	margin: 0px;
 	padding: 0px;
@@ -56,36 +60,29 @@ html, body{
 #searchText{
 	width: 83%;
 }
-
-
 #main{
+	height: 100%;
 	margin: 0;
 	padding: 0;
-	height: 100%;
-	vertical-align: baseline;
 }
-
 #h2info{
 	color: black;
 	margin-left: 4%;
 	margin-bottom: 4%;
 }
 
-#tablemain{
-	height: 63%;
-}
-
 #write_btn{
-	float: right;
-	margin-top: 1%;
-	margin-right: 4%;
+	position: absolute;
+	right: 30px;
 }
-
+#table{
+	margin: 0 auto;
+	padding: 30px;
+}
 #pagenation{
 	text-align: center;
-	margin: 3%;
-	display: block;
 }
+
 
 #tr1{
 	background-color: #EFECCA;

@@ -3,7 +3,7 @@
 	src : url(../../NanumFont_TTF_ALL/NanumGothic.ttf) format('truetype');
 }
 @media (min-width: 768px)
-{.col-sm-9 {width: 83%;}
+{.col-sm-9 {width: 83%;}}
 
 @media(min-width: 768)
 {
