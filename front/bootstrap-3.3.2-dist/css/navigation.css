@@ -1,0 +1,17 @@
+
+.navbar{
+	background:black;
+	color:white;
+	margin:0px;
+	border:0px;
+	border-radius: 0px;
+}
+
+
+#Brand{
+	width: 130px;
+}
+
+.navbar-brand{
+	padding :5px 15px;
+}
