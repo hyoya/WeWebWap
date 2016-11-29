@@ -1,0 +1,69 @@
+@font-face{
+	font-family: 'NanumGothic';
+    src : url(/front/NanumFont_TTF_ALL/NanumGothic) format('truetype');
+}
+@media (min-width: 768px)
+{.col-sm-9 {width: 83%;}}
+
+@media(min-width: 768)
+{
+	html, body{overflow-y: scroll;}
+}
+
+html, body{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	overflow: hidden;
+	font-family:NanumGothic;
+}
+
+.row{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+
+.container-fluid{
+	height: 100%;
+}
+
+#col2{
+	height: 100%;
+}
+.g_menu{
+	color: black;
+	margin-top: 4%;
+	margin-left: 4%;
+	margin-bottom: 4%;
+	border-bottom: solid 0.15em #ff6c6c;
+
+}
+#thum{
+	height: 100%;
+	margin-top: 5%;
+}
+
+
+.thumbnail{
+	margin: 0;
+	padding: 4%;
+}
+
+.thumbnail a img{
+	min-height:180px;
+	height:180px;
+}
+
+#write_btn{
+	float: right;
+	margin-top: 5%;
+	margin-right: 4%;
+}
+
+#pagenation{
+	text-align: center;
+	display: block;
+	margin-top: 10%;
+}
