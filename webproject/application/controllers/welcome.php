@@ -20,16 +20,8 @@ class Welcome extends CI_Controller {
 
 	public function index()
 	{
-		//$this->load->view('front');
-		//$this->load->view('gallery');
-		$this->load->view('mypage_write_gallery');
+		$this->load->view('gallery');
 	}
-
-	// public function galleryInfoPage(){
-	// 	$this->load->view('galleryInfo');
-	// }
-
-
 }
 
 /* End of file welcome.php */
