@@ -55,7 +55,7 @@
                 </div>
 
                 <div class="item">
-                  <img src="/front/resource/img/4.jpeg">
+                  <img src="/resource/img/4.jpeg">
                   <div class="carousel-caption">
                     ...
                   </div>
@@ -86,7 +86,7 @@
 
   </script>
 
-  <script src="/front/bootstrap-3.3.2-dist/js/bootstrap.min.js">
+  <script src="/js/bootstrap.min.js">
     $(“.carousel”).carousel({
       interval: 5000
     });

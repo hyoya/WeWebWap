@@ -1,6 +1,6 @@
 @font-face{
 	font-family: 'NanumGothic';
-	src : url(/front/NanumFont_TTF_ALL/NanumGothic) format('truetype');
+	src : url(/fonts/NanumGothic) format('truetype');
 }
 @media (max-width: 1150px)
 {#sidebar{display: none;}
