@@ -30,7 +30,7 @@
     </div>
     <div class="tbody">
       <table class="table">
-        <h4><b>게시판</b></h4>
+        <h4><b>갤러리</b></h4>
         <thead>
           <tr class="row">
             <th class="col-md-2 col-xs-2">번호</th>
@@ -41,18 +41,18 @@
         <tbody>
           <tr class="row">
             <td class="col-md-2 col-xs-2">1</td>
-            <td class="col-md-6 col-xs-6">게시판 제목1</td>
+            <td class="col-md-6 col-xs-6">갤러리 제목1</td>
             <td class="col-md-4 col-xs-4">2000.01.01</td>
           </tr>
           <tr class="row">
             <td class="col-md-2 col-xs-2">2</td>
-            <td class="col-md-6 col-xs-6">게시판 제목2</td>
-            <td class="col-md-4 col-xs-4">2000.02.02</td>
+            <td class="col-md-6 col-xs-6">갤러리 제목2</td>
+            <td class="col-md-4">2000.02.02</td>
           </tr>
           <tr class="row">
-            <td class="col-md-2 col-xs-2">3</td>
-            <td class="col-md-6 col-xs-6">게시판 제목3</td>
-            <td class="col-md-4 col-xs-4">2000.03.03</td>
+            <td class="col-md-2">3</td>
+            <td class="col-md-6">갤러리 제목3</td>
+            <td class="col-md-4">2000.03.03</td>
           </tr>
         </tbody>
       </table>
@@ -60,6 +60,7 @@
       <div class="btn-toolbar">
           <a href="#" class="btn btn-default btn-xs">1</a>
       </div>
+
     </div>
   </div>
 

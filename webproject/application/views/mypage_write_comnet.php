@@ -30,36 +30,46 @@
     </div>
     <div class="tbody">
       <table class="table">
-        <h4><b>게시판</b></h4>
+        <h4><b>댓글</b></h4>
         <thead>
           <tr class="row">
             <th class="col-md-2 col-xs-2">번호</th>
-            <th class="col-md-6 col-xs-6">제목</th>
-            <th class="col-md-4 col-xs-4">등록일</th>
+            <th class="col-md-6 col-xs-6">내용</th>
+            <th class="col-md-2 col-xs-2">등록일</th>
+            <th class="col-md-2 col-xs-2">게시판</th>
           </tr>
         </thead>
         <tbody>
           <tr class="row">
-            <td class="col-md-2 col-xs-2">1</td>
-            <td class="col-md-6 col-xs-6">게시판 제목1</td>
-            <td class="col-md-4 col-xs-4">2000.01.01</td>
+            <td class="col-md-2 col-xs-2">15</td>
+            <td class="col-md-6 col-xs-6">댓글쓰기1</td>
+            <td class="col-md-2 col-xs-2">2000.01.01</td>
+            <td class="col-md-2 col-xs-2">게시판</td>
           </tr>
           <tr class="row">
-            <td class="col-md-2 col-xs-2">2</td>
-            <td class="col-md-6 col-xs-6">게시판 제목2</td>
-            <td class="col-md-4 col-xs-4">2000.02.02</td>
+            <td class="col-md-2 col-xs-2">21</td>
+            <td class="col-md-6 col-xs-6">댓글쓰기2</td>
+            <td class="col-md-2 col-xs-2">2000.02.02</td>
+            <td class="col-md-2 col-xs-2">게시판</td>
           </tr>
           <tr class="row">
-            <td class="col-md-2 col-xs-2">3</td>
-            <td class="col-md-6 col-xs-6">게시판 제목3</td>
-            <td class="col-md-4 col-xs-4">2000.03.03</td>
+            <td class="col-md-2 col-xs-2">13</td>
+            <td class="col-md-6 col-xs-6">댓글쓰기3</td>
+            <td class="col-md-2 col-xs-2">2000.03.03</td>
+            <td class="col-md-2 col-xs-2">갤러리</td>
+          </tr>
+          <tr class="row">
+            <td class="col-md-2 col-xs-2">16</td>
+            <td class="col-md-5 col-xs-5">댓글쓰기4</td>
+            <td class="col-md-2 col-xs-2">2000.04.04</td>
+            <td class="col-md-3 col-xs-3">갤러리</td>
           </tr>
         </tbody>
       </table>
-
       <div class="btn-toolbar">
           <a href="#" class="btn btn-default btn-xs">1</a>
       </div>
+
     </div>
   </div>
 
